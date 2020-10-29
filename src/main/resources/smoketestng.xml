@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Orange HRM Suite">
+
+<listeners>
+		<listener class-name="com.qa.ExtentReportListner.ExtentReporterNG" />
+	</listeners>
+
+  <test name="Orange HRM Smoke">
+  <classes>
+  <class name = "com.orangehrm.qa.testcases.LoginPageTest"> </class>
+   <class name = "com.orangehrm.qa.testcases.HomePageTest"> </class> 
+        <class name = "com.orangehrm.qa.testcases.MaintanancePageTest"> </class>
+                <class name = "com.orangehrm.qa.testcases.AdminPageTest"> </class>
+        
+        
+        </classes>
+        
+        </test>
+        </suite>

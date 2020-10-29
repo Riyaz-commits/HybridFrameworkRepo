@@ -1,0 +1,140 @@
+2020-10-25 01:10:36,617  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-25 01:10:36,624  WARN [main] LoginPageTest:36 - Hey this just a warning message
+2020-10-25 01:10:36,624 FATAL [main] LoginPageTest:37 - hey this is just fatal error message
+2020-10-25 01:10:36,624 DEBUG [main] LoginPageTest:38 - this is debug message
+2020-10-25 01:10:47,212  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-25 01:10:47,212  WARN [main] LoginPageTest:36 - Hey this just a warning message
+2020-10-25 01:10:47,212 FATAL [main] LoginPageTest:37 - hey this is just fatal error message
+2020-10-25 01:10:47,213 DEBUG [main] LoginPageTest:38 - this is debug message
+2020-10-25 01:10:58,482  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-25 01:10:58,483  WARN [main] LoginPageTest:36 - Hey this just a warning message
+2020-10-25 01:10:58,484 FATAL [main] LoginPageTest:37 - hey this is just fatal error message
+2020-10-25 01:10:58,485 DEBUG [main] LoginPageTest:38 - this is debug message
+2020-10-25 01:11:09,414  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-25 01:11:09,414  WARN [main] LoginPageTest:36 - Hey this just a warning message
+2020-10-25 01:11:09,415 FATAL [main] LoginPageTest:37 - hey this is just fatal error message
+2020-10-25 01:11:09,415 DEBUG [main] LoginPageTest:38 - this is debug message
+2020-10-25 01:11:09,427  INFO [main] LoginPageTest:46 - ****************************** starting test case *****************************************
+2020-10-25 01:11:09,427  INFO [main] LoginPageTest:47 - ****************************** freeCrmTitleTest *****************************************
+2020-10-25 01:11:23,181  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-25 01:11:23,182  WARN [main] LoginPageTest:36 - Hey this just a warning message
+2020-10-25 01:11:23,182 FATAL [main] LoginPageTest:37 - hey this is just fatal error message
+2020-10-25 01:11:23,182 DEBUG [main] LoginPageTest:38 - this is debug message
+2020-10-26 11:42:57,312  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 11:43:12,513  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 11:43:23,228  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 11:43:33,774  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 11:43:33,778  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-26 11:43:33,778  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-26 11:43:43,921  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 12:19:34,656  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 12:19:47,459  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 12:19:58,376  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 12:20:13,774  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 12:20:13,775  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-26 12:20:13,776  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-26 12:20:23,719  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 12:44:41,058  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 12:44:53,583  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 12:45:06,015  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 12:46:22,464  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 12:46:22,469  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-26 12:46:22,470  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-26 12:46:33,902  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 12:46:43,005 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-10-26 12:46:43,007 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-10-26 12:46:43,009 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-10-26 12:46:43,011 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-10-26 12:46:43,012 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/riyshaik/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-10-26 12:46:43,519 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-10-26 12:46:43,520 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-10-26 12:46:43,521 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-10-26 12:46:43,522 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-10-26 12:46:43,524 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/riyshaik/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-10-26 17:43:24,479  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 17:43:37,193  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 17:43:49,602  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 17:45:09,925  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 17:45:09,933  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-26 17:45:09,934  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-26 17:45:23,635  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 17:45:32,836 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-10-26 17:45:32,870 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-10-26 17:45:32,884 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-10-26 17:45:32,886 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-10-26 17:45:32,887 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/riyshaik/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-10-26 17:45:34,171 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-10-26 17:45:34,173 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-10-26 17:45:34,174 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-10-26 17:45:34,175 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-10-26 17:45:34,176 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/riyshaik/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-10-26 17:47:38,074  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 17:50:38,265  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 17:50:55,370  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 17:51:07,761  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 17:51:18,183  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 17:51:18,185  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-26 17:51:18,185  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-26 17:51:30,107  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 18:29:01,434  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 18:29:11,547  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 18:29:22,078  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 18:29:31,762  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 18:29:31,764  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-26 18:29:31,765  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-26 18:29:41,658  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:08:59,780  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:09:10,389  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:09:21,161  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:09:32,053  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:09:32,054  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-26 19:09:32,054  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-26 19:09:42,651  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:19:58,857  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:20:10,159  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:20:20,973  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:20:32,057  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:20:32,059  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-26 19:20:32,061  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-26 19:20:41,196  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:27:33,923  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:27:44,522  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:27:54,774  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:28:05,340  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-26 19:28:05,348  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-26 19:28:05,349  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-26 19:28:13,880  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-27 09:25:44,848  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-27 09:25:55,580  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-27 09:26:04,598  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-27 09:26:13,807  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-27 09:26:13,809  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-27 09:26:13,810  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-27 09:26:21,562  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-28 10:34:15,010  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-28 10:34:34,970  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-28 10:34:53,651  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-28 10:35:10,179  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-28 10:35:10,187  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-28 10:35:10,187  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-28 10:35:20,101  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-28 10:38:40,130  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-28 10:38:50,036  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-28 10:39:01,844  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-28 10:39:12,939  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-28 10:39:12,945  INFO [main] LoginPageTest:44 - ****************************** starting test case *****************************************
+2020-10-28 10:39:12,946  INFO [main] LoginPageTest:45 - ****************************** freeCrmTitleTest *****************************************
+2020-10-28 10:39:21,007  INFO [main] LoginPageTest:35 - entering application URL
+2020-10-28 13:53:24,932  INFO [main] LoginPageTest:40 - entering application URL
+2020-10-28 13:54:19,317  INFO [main] LoginPageTest:40 - entering application URL
+2020-10-28 13:54:59,470  INFO [main] LoginPageTest:40 - entering application URL
+2020-10-28 13:55:51,635  INFO [main] LoginPageTest:40 - entering application URL
+2020-10-28 14:35:29,177  INFO [main] LoginPageTest:40 - entering application URL
+2020-10-29 11:32:43,333  INFO [main] LoginPageTest:36 - entering application URL
+2020-10-29 11:36:22,423  INFO [main] LoginPageTest:36 - entering application URL
+2020-10-29 11:36:40,397  INFO [main] LoginPageTest:36 - entering application URL
+2020-10-29 11:36:53,277  INFO [main] LoginPageTest:36 - entering application URL
+2020-10-29 11:37:05,428  INFO [main] LoginPageTest:36 - entering application URL
+2020-10-29 11:37:05,430  INFO [main] LoginPageTest:45 - ****************************** starting test case *****************************************
+2020-10-29 11:37:05,431  INFO [main] LoginPageTest:46 - ****************************** freeCrmTitleTest *****************************************
+2020-10-29 11:37:14,157  INFO [main] LoginPageTest:36 - entering application URL

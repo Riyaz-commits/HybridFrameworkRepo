@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Orange HRM Suite]">
+  <test thread-count="5" name="Orange HRM Smoke(failed)">
+    <classes>
+      <class name="com.orangehrm.qa.testcases.AdminPageTest">
+        <methods>
+          <include name="adminaccess"/>
+          <include name="setup"/>
+          <include name="endsession"/>
+        </methods>
+      </class> <!-- com.orangehrm.qa.testcases.AdminPageTest -->
+    </classes>
+  </test> <!-- Orange HRM Smoke(failed) -->
+</suite> <!-- Failed suite [Orange HRM Suite] -->

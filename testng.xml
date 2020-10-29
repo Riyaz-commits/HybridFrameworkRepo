@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Orange HRM Suite">
+  <test name="Orange HRM Smoke">
+  <classes>
+  <class name = com.orangehrm.qa.testcases.LoginPageTest </class>
+    <class name = com.orangehrm.qa.testcases.HomePageTest </class>
+        <class name = com.orangehrm.qa.testcases.MaintanancePageTest </class>
+        
+        </classes>
+        
+        </test>
+        </suite>
