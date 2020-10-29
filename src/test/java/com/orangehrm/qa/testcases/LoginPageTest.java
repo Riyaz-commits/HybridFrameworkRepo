@@ -46,6 +46,7 @@ public class LoginPageTest extends Testbase {
 		data.log.info("****************************** freeCrmTitleTest *****************************************");
 		String title = data.login.titlepage();
 		System.out.println(title);
+		System.out.println(title);
 		Assert.assertEquals(title, "OrangeHRM");
 	}
 	
